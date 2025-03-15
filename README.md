@@ -1,6 +1,5 @@
 # ATLIQ-HARDWARES-BI-360
 
-📊 Business Insights 360 – AtliQ Hardware | Power BI Project
 📌 Project Overview
 This Power BI project presents an interactive business intelligence dashboard for AtliQ Hardware, a company selling computer hardware across multiple platforms. The goal is to simplify complex data into meaningful insights for informed decision-making.
 
@@ -32,5 +31,10 @@ Executive Dashboard (High-level strategic overview)
 🔹 Improved forecasting & business strategies with data-driven insights
 
 📌 Explore the full project, Power BI reports, and dataset in this repository!
-
 🚀 Feedback & suggestions are welcome!
+
+
+
+
+
+
